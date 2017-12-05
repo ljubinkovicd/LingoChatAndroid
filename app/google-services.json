@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "699339874993",
+    "firebase_url": "https://lingochat-462fc.firebaseio.com",
+    "project_id": "lingochat-462fc",
+    "storage_bucket": "lingochat-462fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:699339874993:android:886104fe823ed932",
+        "android_client_info": {
+          "package_name": "com.ljubinkovicd.lingochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "699339874993-o864u3u8dkgkldu7efn6nf611nrd681a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ljubinkovicd.lingochat",
+            "certificate_hash": "d9ee42d8950226ae5e7fe3b1311ec3600e882e2c"
+          }
+        },
+        {
+          "client_id": "699339874993-49njkh94c464b14tl65cth0v09vd6ah4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIXmhcaD-_VoINq_o-saxlm2sakTZbmwA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "699339874993-687i2haeggoo8s2ug4te4bdc8nfa4e8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ljubinkovicd.LingoChat"
+              }
+            },
+            {
+              "client_id": "699339874993-49njkh94c464b14tl65cth0v09vd6ah4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
